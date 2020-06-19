@@ -6,7 +6,8 @@ exports.up = function(knex) {
       table.string('phone', 20).notNullable()
       table.string('name', 150).notNullable().unique()
       table.string('password', 5).notNullable()
-      table.timestamps()
+      table.string('role', 20).notNullable()
+      table.timestamps(true, true)
     })
 };
 
