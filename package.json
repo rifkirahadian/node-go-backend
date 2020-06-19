@@ -16,6 +16,7 @@
     "express-validator": "^6.5.0",
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.21.1",
+    "moment": "^2.27.0",
     "randomstring": "^1.1.5",
     "sqlite3": "^4.2.0"
   }
