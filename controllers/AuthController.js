@@ -30,3 +30,9 @@ exports.login = async(req, res) => {
     return responser.errorResponseHandle(error, res)
   }
 }
+
+exports.authUser = async(req, res) => {
+  let user = req.user
+
+  return responser.successResponse(res, user, null)
+}

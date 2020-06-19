@@ -9,7 +9,7 @@ module.exports = (authRoutes) => {
     // decode token
     if (token) {
       // verifies secret and checks exp
-      jwt.verify(token, 'superSecret', function (err, decoded) {
+      jwt.verify(token, process.env.JWT_SECRET, function (err, decoded) {
         if (err) {
           return responser.errorResponseStatus(res, 401, 'Failed to authenticate token')
         } else {

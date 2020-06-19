@@ -11,6 +11,8 @@ module.exports = (app, express) => {
   apiRoutes.post('/register',validator.register, AuthController.register)
   apiRoutes.post('/login', validator.login, AuthController.login)
 
+  authRoutes.get('/auth/user', AuthController.authUser)
+
   app.use('/api', apiRoutes)
   app.use('/api', authRoutes)
 }
