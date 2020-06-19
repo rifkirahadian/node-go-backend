@@ -10,7 +10,7 @@ exports.register = async(req, res) => {
     let user = await auth.nameExistCheck(name)
     user = await auth.createUserIfNotExist(name, phone, role, user, res)
     
-    return responser.successResponse(res,user, 'Register Success')
+    return responser.successResponse(res,user, null)
   } catch (error) {
     return responser.errorResponseHandle(error, res)
   }
@@ -19,8 +19,13 @@ exports.register = async(req, res) => {
 exports.login = async(req, res) => {
   try {
     validator.formValidate(req, res)
+    const {phone, password} = req.body
+    let user = await auth.getUserByPhone(phone, res)
+    auth.passwordMatchValidate(user.password, password, res)
 
+    const authToken = auth.authTokenGenerate(user)
 
+    return responser.successResponse(res,authToken, null)
   } catch (error) {
     return responser.errorResponseHandle(error, res)
   }

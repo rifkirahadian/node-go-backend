@@ -15,3 +15,9 @@ exports.register = [
   body(['phone']).notEmpty().withMessage('Phone required'),
   body(['role']).notEmpty().withMessage('Role required')
 ]
+
+//login validation rule
+exports.login = [
+  body(['phone']).notEmpty().withMessage('Phone required'),
+  body(['password']).notEmpty().withMessage('Password required')
+]
