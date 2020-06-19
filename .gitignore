@@ -1,3 +1,3 @@
-node_modules
-.env
+node/node_modules
+node/.env
 dev.sqlite3
