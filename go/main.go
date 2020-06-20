@@ -24,7 +24,8 @@ func main()  {
   apiRoutes := e.Group("/api")
   
   //no auth routes
-	apiRoutes.POST("/register", handlers.Register())
+  apiRoutes.POST("/register", handlers.Register())
+  apiRoutes.POST("/login", handlers.Login())
 
 	e.Logger.Fatal(e.Start(":8000"))
 }

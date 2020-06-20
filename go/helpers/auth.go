@@ -3,6 +3,8 @@ package helpers
 import (
   "backend-app/go/models"
   "backend-app/go/configs"
+  "github.com/dgrijalva/jwt-go"
+	"time"
 )
 
 func UserNameExistCheck(name string) string {
@@ -25,4 +27,30 @@ func CreateUser(name string, phone string, role string, password string) bool {
   }
 
   return true
+}
+
+func GetUserByPhone(phone string) models.User {
+  db := configs.InitGormDB()
+  var user models.User
+  db.First(&user, "phone=?", phone)
+
+  return user
+}
+
+func GenerateToken(name string, phone string, role string) (string, error) {
+	//create token
+	token := jwt.New(jwt.SigningMethodHS256)
+
+	//set claims
+	claims := token.Claims.(jwt.MapClaims)
+	claims["phone"] = phone
+	claims["name"] = name
+  claims["role"] = role
+  claims["timestamp"] = time.Now().Unix()
+	claims["exp"] = time.Now().Add(time.Hour * 72).Unix()
+
+	//generate encode token
+	t, err := token.SignedString([]byte("secret"))
+	
+	return string(t),err
 }
