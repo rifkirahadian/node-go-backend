@@ -12,15 +12,17 @@ func FetchingFetch() echo.HandlerFunc {
     currency := c.QueryParam("currency")
     if currency == "USD" {
       usdValue := helpers.GetUSDValue()
-      usdFetchData := helpers.ChangeIDRtoUSDCurrency(fetchData, usdValue)
-
-      return c.JSON(http.StatusOK, H{
-        "data": usdFetchData.Fetchs,
-      })
+      fetchData = helpers.ChangeIDRtoUSDCurrency(fetchData, usdValue)
     }
 
     return c.JSON(http.StatusOK, H{
-      "data": fetchData,
+      "data": fetchData.Fetchs,
     })
   }
 }
+
+// func FetchingAggregate() echo.HandlerFunc {
+//   return func (c echo.Context) error {
+
+//   }
+// }

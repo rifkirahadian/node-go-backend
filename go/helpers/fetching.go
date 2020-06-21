@@ -23,10 +23,10 @@ func GetUSDValue() float32{
   }
 }
 
-func ChangeIDRtoUSDCurrency(fetchData []models.Fetch, usdValue float32) models.FetchCollection {
+func ChangeIDRtoUSDCurrency(fetchData models.FetchCollection, usdValue float32) models.FetchCollection {
   result := models.FetchCollection{}
-  for i := 0; i < len(fetchData); i++ {
-    fetch := fetchData[i]
+  for i := 0; i < len(fetchData.Fetchs); i++ {
+    fetch := fetchData.Fetchs[i]
 
     value, _ := strconv.ParseFloat(fetch.Price, 32)
     floatPrice := float32(value)
