@@ -5,7 +5,6 @@ import (
 	"net/http"
 	"backend-app/go/models" 
   "backend-app/go/helpers"
-  "backend-app/go/forms" 
 	"math/rand"
   "strconv"
   "github.com/dgrijalva/jwt-go"
@@ -46,7 +45,7 @@ func Register() echo.HandlerFunc  {
 
 func Login() echo.HandlerFunc {
   return func (c echo.Context) error {
-    form := new(forms.Login)
+    form := new(models.Login)
 		c.Bind(form)
 		if err := c.Validate(form); err != nil {
 			return err 

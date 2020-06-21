@@ -1,4 +1,4 @@
-package forms
+package models
 
 type (
 	Login struct {

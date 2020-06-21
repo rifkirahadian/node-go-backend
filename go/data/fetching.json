@@ -1,0 +1,1872 @@
+[
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": "8a23fcab-ef67-48b8-8ba1-7055ea91ea3b",
+        "komoditas": "Ikan Tunaa",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "SURABAYA",
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "Wed Jun 03 11:32:48 GMT+07:00 2020",
+        "timestamp": "1591158768"
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": "153d2ddf-a6ca-4aba-924f-86bb0d3ffc26",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "f5acd4a7-093d-4c19-b3cf-cdd089bdc5d9",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "e5f0483f-f247-4869-8e43-b7b32e63220c",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "50",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "4d71d790-4e53-48f3-a5ba-7abac6982fbe",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "60",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "7d883ef9-7ca4-41db-873d-c6969368800f",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "70",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "9979ec15-e6e0-489a-a5b1-3c63b46514f6",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "4f8b4cca-5b60-4ea3-92b6-a25cfa1a5643",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "b68661d2-7940-4aff-a999-ca16994fb196",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "100",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "9df4a4fe-f0d2-44a9-98b1-2430abf25827",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "62056564-b5ac-4199-8df2-db3c24c235fa",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "aa9e48c4-fe62-45f6-bf4b-4e9861daa140",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "50",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "f3fbb9b5-625b-4f0e-ad41-bfd5f479dea8",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "60",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "7096f5d3-a18a-4d05-a2eb-ad0ab2ae6549",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "70",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "18801225-2aa4-4ded-a060-df6cac256fcb",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "c8313e94-18ec-42b7-bedd-98d27d6091c2",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "cafc617e-8b5e-4264-a2c1-1d0a2292d4c5",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "100",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": null,
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": "2545ce60-9ee8-4819-a064-7a3a9f21c277",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "110",
+        "price": "20000",
+        "tgl_parsed": "Wed Jun 03 11:55:50 GMT+07:00 2020",
+        "timestamp": "1591160150"
+    },
+    {
+        "uuid": "7f077c74-53e0-48a0-b1a9-3ee03bfdecfd",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "286a5a1b-d395-4025-8b89-450b4252a8f7",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "130",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "ab1434e0-9b7f-4b74-bf25-420e0bdfe31c",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "96c12886-80de-492f-92f1-b8071f2baf29",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "150",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "0ddd2c7f-d740-4c92-b3a8-7b66da6a0dc1",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "160",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "5b20bd69-ffc0-459e-a0bc-0aba6b7c9d00",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "170",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "5b20ad1e-0c4e-434a-a5fd-7bec5f546f78",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "180",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "88b5b4c3-05b9-41c6-8981-a218f01bcc97",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "190",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "d6c245cc-66df-46e4-9d7c-f0b3f32323b8",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "200",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "c22ff890-ae8d-47a5-b214-9294b7038a98",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "6dfc3c4c-f344-490a-b8d1-00cfabcd4765",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "dbd4901b-154e-4070-b2b5-5f3013e84bda",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "50",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "d2de477a-0b1f-401d-aedd-d8af50ea27b7",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "60",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "5d73daf9-4987-45d7-8435-2c5be2d00f81",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "70",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "b2bb1455-cbd4-4a93-b49d-5daa1d1e14fe",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "11cb76be-8c70-4480-a183-4b63783bde38",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "25b3294f-71ff-4d3d-af5d-813c87e92975",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "100",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "31d28951-9273-448f-a2c8-b81136ceb732",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "110",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "bfa4b9fb-2d37-4798-8439-c8b93fb90be3",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "fe0e5bf8-77e0-41e2-abba-8914707e9c9a",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "130",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "78005dbd-8067-4234-847d-fd6b50f356f5",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "2b6d10e3-66a3-4d74-bb63-33d5b7f1a9e7",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "150",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "fa1abc49-88bc-497e-8577-ec9288a04db4",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "160",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "20f6e8eb-8c13-44de-a0ee-4383b3fa7eaf",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "170",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "c2333251-5894-4889-836f-984a33f3a621",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "180",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "a6229338-348f-4492-b6f4-c491b91f6fe7",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "190",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "02ec68af-55bf-426f-b00c-9e0d37f314ed",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "200",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "b5b08d8e-9bbe-4509-b53e-e30c4664d412",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "6f6142d1-9551-47d6-b5ac-460ee0dc3764",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "b67aa9e3-aa87-4288-a57d-db74f3cb805a",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "50",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "f4ec439f-c8e1-4212-b4c0-821ea34ed630",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "60",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "0398b79d-3edc-491f-b128-945783e3c3e8",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "70",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "2d436f04-6d37-4db7-8d3b-ff718a82c014",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "adb65f26-4de9-4cbd-add7-5e630e1f3372",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "6704508e-474d-4a6d-afa9-8aa95ca0719d",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "100",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "dc629763-adf7-4d8d-8261-48cc55b9f594",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "110",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "d60fd952-0990-437a-9831-072ddda9d181",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "99fcb2dd-e06f-465a-8af9-3de4fd50f0bb",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "130",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "1df62277-7b2c-4386-a496-5cfca463a4d9",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "94706105-ad6a-4548-8671-3649f6f96e21",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "150",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "f6ff67bb-2b7c-4702-8d4e-60c07a2b2d8c",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "160",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "0da856a8-92d0-4f62-a587-64a8d92bb02c",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "170",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "9b4ad567-0da0-4b24-96fc-506ef91007df",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "180",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "523f27d5-72e6-40db-81b4-1e58fed551ff",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "190",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "b3f7d49a-e551-46fa-b31c-8a21a074bd0a",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "200",
+        "price": "20000",
+        "tgl_parsed": "2019-11-11T17:00:00.000Z",
+        "timestamp": "1573491600"
+    },
+    {
+        "uuid": "de50d4bc-d38a-46b0-b55a-b5b41bcbc49b",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "30",
+        "price": "1000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "04f418bc-95dd-4a2b-8a3c-0a7c374f413a",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "40",
+        "price": "1000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "b08651ce-49ae-4650-b5a7-0c2b420f8548",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "50",
+        "price": "5000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "3c6a9e2f-0c0f-4db3-bbee-c4b439ab4d80",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "60",
+        "price": "78880",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "f5b81e60-070e-49af-bbca-d2c815c86ac5",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "70",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "87feb089-d953-44ce-80f5-5b9f0bf470a4",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "80",
+        "price": "12000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "2fbeb7ba-5a62-41ca-bd14-a84f7560601c",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "9a74abd3-a2da-4b76-9ca9-30aee3190520",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "100",
+        "price": "7000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "6a55271b-de95-496c-80db-872d421adc0b",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "110",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "46b6f073-c3fb-4cc1-85ee-70952fdc3aa5",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "cc4d85a1-ad50-4e06-b063-7051a1f5f8fe",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "130",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "dfb5f784-6ac6-4d62-9f15-b770df1c686b",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "fb6f7848-6a87-4675-b067-0abad510654f",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "150",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "136bae0d-cbfc-4fec-98bb-0619ea15add9",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "fa5c2bf0-0f6a-446a-9bb7-5397e146be3b",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "fcdb30eb-3605-4b07-968b-a702edf778a3",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "50",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "6edd9b58-f4c7-41b4-8c5f-7c2c334a2b32",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "60",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "8a965ed6-f99b-4c21-bc47-4c388578a005",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "70",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "21e0b30d-3ae1-4918-b5af-0b31054c7d1b",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "ee443113-5928-4f37-8ffa-cfe25181726f",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "90",
+        "price": "16000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "6f6a7be1-388a-4900-b2ed-f690962112fb",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "100",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "fb203302-443f-46fb-9c02-c28b08090025",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "110",
+        "price": "20000",
+        "tgl_parsed": "2019-11-07T17:00:00.000Z",
+        "timestamp": "1573146000"
+    },
+    {
+        "uuid": "423d8986-2c1b-484c-80dd-a4ca21525853",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "2020-01-30T03:27:44.517Z",
+        "timestamp": "1580354864"
+    },
+    {
+        "uuid": "31dc06de-9623-4893-90fc-b662f02ca357",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "2020-01-30T06:42:04.817Z",
+        "timestamp": "1580366524"
+    },
+    {
+        "uuid": "c9acdff5-66ac-47b9-bd39-d632440564bf",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "JAWA TENGAH",
+        "area_kota": "CILACAP",
+        "size": "60",
+        "price": "20000",
+        "tgl_parsed": "2020-02-01T03:08:56.717Z",
+        "timestamp": "1580526536"
+    },
+    {
+        "uuid": "083a6440-7ee0-11ea-b20b-430cc6c58653",
+        "komoditas": "Komoditas Baru",
+        "area_provinsi": "JAWA TENGAH",
+        "area_kota": "PURWOKERTO",
+        "size": "100",
+        "price": "20000",
+        "tgl_parsed": "Wed Apr 15 2020 13:12:06 GMT+0700 (Western Indonesia Time)",
+        "timestamp": "1586931126405"
+    },
+    {
+        "uuid": "414cd5b0-7ee0-11ea-b20b-430cc6c58653",
+        "komoditas": "Komoditas Baru",
+        "area_provinsi": "JAWA TENGAH",
+        "area_kota": "PURWOKERTO",
+        "size": "100",
+        "price": "20000",
+        "tgl_parsed": "Wed Apr 15 2020 13:13:42 GMT+0700 (Western Indonesia Time)",
+        "timestamp": "1586931222155"
+    },
+    {
+        "uuid": "d4019190-7ee3-11ea-8033-bdff3e5b7c04",
+        "komoditas": "coba",
+        "area_provinsi": "coba",
+        "area_kota": "coba",
+        "size": "10",
+        "price": "20000",
+        "tgl_parsed": "Wed Apr 15 2020 13:39:16 GMT+0700 (Western Indonesia Time)",
+        "timestamp": "1586932756777"
+    },
+    {
+        "uuid": "0c192840-7ee4-11ea-b3e1-e335da5df3ca",
+        "komoditas": "new",
+        "area_provinsi": "new",
+        "area_kota": "neww",
+        "size": "100",
+        "price": "20000",
+        "tgl_parsed": "Wed Apr 15 2020 13:40:50 GMT+0700 (Western Indonesia Time)",
+        "timestamp": "1586932850884"
+    },
+    {
+        "uuid": "7f7eac00-7ee5-11ea-b6b1-d190179e68f4",
+        "komoditas": "New one",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "MALANG",
+        "size": "10",
+        "price": "20000",
+        "tgl_parsed": "Wed Apr 15 2020 13:51:13 GMT+0700 (Western Indonesia Time)",
+        "timestamp": "1586933473985"
+    },
+    {
+        "uuid": "b2cf3500-7ef6-11ea-80b7-7dc4b5bc3842",
+        "komoditas": "NEW",
+        "area_provinsi": "BANTEN",
+        "area_kota": "CUSTOM",
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "Wed Apr 15 2020 15:54:21 GMT+0700 (Western Indonesia Time)",
+        "timestamp": "1586940861520"
+    },
+    {
+        "uuid": "da15de20-7f32-11ea-bf47-557ae3957369",
+        "komoditas": "Komoditas Baru",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "MALANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "Wed Apr 15 2020 23:04:57 GMT+0700 (Western Indonesia Time)",
+        "timestamp": "1586966697266"
+    },
+    {
+        "uuid": "860227f0-7f9e-11ea-b63f-e5d805b3d431",
+        "komoditas": "Lele",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": "Bandung",
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "Thu Apr 16 2020 11:55:41 GMT+0700 (Western Indonesia Time)",
+        "timestamp": "1587012941808"
+    },
+    {
+        "uuid": "949c2ae0-854d-11ea-bf17-cfa72d60c488",
+        "komoditas": "Macan",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": "CIREBON",
+        "size": "50",
+        "price": "20000",
+        "tgl_parsed": "Thu Apr 23 2020 17:31:24 GMT+0700 (WIB)",
+        "timestamp": "1587637884046"
+    },
+    {
+        "uuid": "a71e12e0-89ea-11ea-89fd-c7d415766eb9",
+        "komoditas": "Lele",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": "Bandung",
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "Wed Apr 29 2020 14:25:50 GMT+0700 (Western Indonesia Time)",
+        "timestamp": "1588145150735"
+    },
+    {
+        "uuid": "5e140940-8c5d-11ea-8ab8-97236306f734",
+        "komoditas": "Cupang",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "150",
+        "price": "20000",
+        "tgl_parsed": "2020-05-02T10:12:02.644Z",
+        "timestamp": "1588414322644"
+    },
+    {
+        "uuid": "1a40a4c0-8c5e-11ea-9aa4-537dac1b021c",
+        "komoditas": "Patin",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "110",
+        "price": "20000",
+        "tgl_parsed": "2020-05-02T10:17:18.349Z",
+        "timestamp": "1588414638349"
+    },
+    {
+        "uuid": "48942610-8f6c-11ea-b7a9-5b20a75ffd57",
+        "komoditas": "Cue",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "110",
+        "price": "20000",
+        "tgl_parsed": "2020-05-06T07:36:22.513Z",
+        "timestamp": "1588750582513"
+    },
+    {
+        "uuid": "a7cb45c0-8f6f-11ea-8c53-0b40332a1ee1",
+        "komoditas": "Mujair",
+        "area_provinsi": "SULAWESI BARAT",
+        "area_kota": "MAMUJU UTARA",
+        "size": "110",
+        "price": "20000",
+        "tgl_parsed": "2020-05-06T08:00:30.748Z",
+        "timestamp": "1588752030748"
+    },
+    {
+        "uuid": "a7cb45c0-8f6f-11ea-8c53-0b40332a1ee1",
+        "komoditas": "Mujair",
+        "area_provinsi": "SULAWESI BARAT",
+        "area_kota": "MAMUJU UTARA",
+        "size": "110",
+        "price": "20000",
+        "tgl_parsed": "2020-05-06T08:00:30.748Z",
+        "timestamp": "1588752030748"
+    },
+    {
+        "uuid": "1e8c6d10-8f70-11ea-8c53-0b40332a1ee1",
+        "komoditas": "Mas",
+        "area_provinsi": "JAWA TENGAH",
+        "area_kota": "PEMALANG",
+        "size": "130",
+        "price": "20000",
+        "tgl_parsed": "2020-05-06T08:03:49.985Z",
+        "timestamp": "1588752229985"
+    },
+    {
+        "uuid": "4317e510-8f70-11ea-8c53-0b40332a1ee1",
+        "komoditas": "Nila",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "150",
+        "price": "20000",
+        "tgl_parsed": "2020-05-06T08:04:51.297Z",
+        "timestamp": "1588752291297"
+    },
+    {
+        "uuid": "03a26a30-8f76-11ea-926b-a351121ccb4c",
+        "komoditas": "Nila",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": "2020-05-06T08:46:01.811Z",
+        "timestamp": "1588754761811"
+    },
+    {
+        "uuid": "03a26a30-8f76-11ea-926b-a351121ccb4c",
+        "komoditas": "Nila",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": "2020-05-06T08:46:01.811Z",
+        "timestamp": "1588754761811"
+    },
+    {
+        "uuid": "ce883fc0-8f9b-11ea-94e5-1f97f89a72e4",
+        "komoditas": "Jaer",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "100",
+        "price": "20000",
+        "tgl_parsed": "2020-05-06T13:16:33.597Z",
+        "timestamp": "1588770993597"
+    },
+    {
+        "uuid": "776d65b0-8fa7-11ea-a9ae-63fd48dfae5d",
+        "komoditas": "Vanamei",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "130",
+        "price": "20000",
+        "tgl_parsed": "2020-05-06T14:40:01.419Z",
+        "timestamp": "1588776001419"
+    },
+    {
+        "uuid": "872c686e-437f-4c89-b6c4-98a54e9f1b43",
+        "komoditas": "Red Salmon",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-05-07T14:53:58.016Z",
+        "timestamp": "1588863238016"
+    },
+    {
+        "uuid": "a3d97c60-9344-11ea-b53c-47bc4268a025",
+        "komoditas": "Red Salmon",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-05-11T05:02:40.422Z",
+        "timestamp": "1589173360422"
+    },
+    {
+        "uuid": "b7709790-9344-11ea-a651-5f940ba7d5fb",
+        "komoditas": "Red Salmon",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-05-11T05:03:13.289Z",
+        "timestamp": "1589173393289"
+    },
+    {
+        "uuid": "c637e190-934c-11ea-8dcf-a528194cfa5e",
+        "komoditas": "Red Salmon",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-05-11T06:00:54.057Z",
+        "timestamp": "1589176854057"
+    },
+    {
+        "uuid": "7dea90f0-94fe-11ea-8e49-c35e9cfa295f",
+        "komoditas": "Vanamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "BANYUWANGI",
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "2020-05-13T09:45:34.335Z",
+        "timestamp": "1589363134335"
+    },
+    {
+        "uuid": "b15e0b40-950f-11ea-a7b3-c97fb7edc22e",
+        "komoditas": "Vanamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "BANYUWANGI",
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "2020-05-13T11:48:42.100Z",
+        "timestamp": "1589370522100"
+    },
+    {
+        "uuid": "b15e0b40-950f-11ea-a7b3-c97fb7edc22e",
+        "komoditas": "Vanamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "BANYUWANGI",
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "2020-05-13T11:48:42.100Z",
+        "timestamp": "1589370522100"
+    },
+    {
+        "uuid": "b15e0b40-950f-11ea-a7b3-c97fb7edc22e",
+        "komoditas": "Vanamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "BANYUWANGI",
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "2020-05-13T11:48:42.100Z",
+        "timestamp": "1589370522100"
+    },
+    {
+        "uuid": "6dd891b9-d584-4044-8128-1baa61d29077",
+        "komoditas": "Ikan Tuna",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-17T08:14:48+08:00",
+        "timestamp": "1589674488840"
+    },
+    {
+        "uuid": "9edf455b-8ac3-430e-a899-3e862ab8211e",
+        "komoditas": "Ikan Tuna Lagi",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-17T08:16:32+08:00",
+        "timestamp": "1589674592211"
+    },
+    {
+        "uuid": "af718b9a-d315-4830-afd4-ef79e62c994f",
+        "komoditas": "Ikan Tuna Test",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-17T08:31:13+08:00",
+        "timestamp": "1589675473524"
+    },
+    {
+        "uuid": "456c152d-be0b-480e-940e-7c79707d01b8",
+        "komoditas": "Udang Test Delete",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-17T11:33:03+08:00",
+        "timestamp": "1589686383120"
+    },
+    {
+        "uuid": "f4780cc9-d3fc-40bf-97ae-2d2105f7b6ea",
+        "komoditas": "Kerang Hijau",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-17T12:00:46+08:00",
+        "timestamp": "1589688046667"
+    },
+    {
+        "uuid": "8c67e89a-c893-4ca6-9dad-a91add14a23f",
+        "komoditas": "Ikan Laut",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-17T12:02:47+08:00",
+        "timestamp": "1589688167665"
+    },
+    {
+        "uuid": "dd310f29-dddb-416a-8c8f-5b750242779c",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-05-17T16:58:34.392Z",
+        "timestamp": "1589734714"
+    },
+    {
+        "uuid": "4359286a-544a-4d05-8382-cbdac06df064",
+        "komoditas": "Ikan Tuna Segar Pagi Ini",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-18T04:59:44+08:00",
+        "timestamp": "1589749184217"
+    },
+    {
+        "uuid": "f251d774-42d7-4ac7-a5f5-a5a23c44648d",
+        "komoditas": "Ikan Salmon",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-18T05:01:39+08:00",
+        "timestamp": "1589749299914"
+    },
+    {
+        "uuid": "9fa16e78-675c-4aa9-8857-601aa4a10231",
+        "komoditas": "Coba run di local saja :)",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-18T05:20:26+08:00",
+        "timestamp": "1589750426516"
+    },
+    {
+        "uuid": "5667f8d7-af5b-4461-93eb-c49a442fe34b",
+        "komoditas": "Penaeus Vannamei",
+        "area_provinsi": "ACEH",
+        "area_kota": null,
+        "size": "50",
+        "price": "20000",
+        "tgl_parsed": "2020-05-18T03:19:08.411Z",
+        "timestamp": "1589771948"
+    },
+    {
+        "uuid": "14bc73a7-df91-4975-a63a-d73ce17240c8",
+        "komoditas": "Vanamei",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": null,
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": "2020-05-18T17:41:39.997Z",
+        "timestamp": "1589823699997"
+    },
+    {
+        "uuid": "3dd4a399-278b-4a3e-b511-0786efa1f3e5",
+        "komoditas": "Ubur-Ubur",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-05-19T00:47:46+07:00",
+        "timestamp": "1589824066417"
+    },
+    {
+        "uuid": "ed257a29-4456-447f-845a-22da338ab5fe",
+        "komoditas": "Ikan Bandeng",
+        "area_provinsi": "JAWA TENGAH",
+        "area_kota": "CILACAP",
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2020-05-19T09:05:11.882Z",
+        "timestamp": "1589879111882"
+    },
+    {
+        "uuid": "f5cfa421-24de-4b86-b6a9-68e229a16831",
+        "komoditas": "Ikan Mujair",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "150",
+        "price": "20000",
+        "tgl_parsed": "2020-05-19T09:07:28.165Z",
+        "timestamp": "1589879248165"
+    },
+    {
+        "uuid": "912a8817-bfe7-48c1-9469-b1f6441e80d0",
+        "komoditas": "Ikan Mas",
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": null,
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2020-05-19T09:13:05.982Z",
+        "timestamp": "1589879585982"
+    },
+    {
+        "uuid": "b7457df9-4379-4188-84ae-16c624996df0",
+        "komoditas": "Gurita",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "60",
+        "price": "20000",
+        "tgl_parsed": "2020-05-26T05:19:47.987Z",
+        "timestamp": "1590470387987"
+    },
+    {
+        "uuid": "a5f89f7d-4175-4773-a5b9-5db73db22794",
+        "komoditas": "Ikan Tuna Air Tawar",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-05-30T13:07:55+07:00",
+        "timestamp": "1590818875"
+    },
+    {
+        "uuid": "c6c1bafa-d9c7-42da-ae49-55f29af6aeec",
+        "komoditas": "Ikan Tuna Air Tawar",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "40",
+        "price": "20000",
+        "tgl_parsed": "2020-05-30T13:08:42+07:00",
+        "timestamp": "1590818922"
+    },
+    {
+        "uuid": "04a0d21c-69c6-4a67-b5a3-ac2cca17fc6f",
+        "komoditas": "Ikan Kulalap Ekor Belah",
+        "area_provinsi": "BALI",
+        "area_kota": "PANDEGLANG",
+        "size": "150",
+        "price": "20000",
+        "tgl_parsed": "2020-05-30T13:42:53+07:00",
+        "timestamp": "1590820973"
+    },
+    {
+        "uuid": "4d32d988-8403-4611-90a0-9db9e0099f6f",
+        "komoditas": "Ikan Ganteng",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-05-30T15:46:48+07:00",
+        "timestamp": "1590828408"
+    },
+    {
+        "uuid": "254e47f7-75f5-4ab9-bec4-429cffdc0b08",
+        "komoditas": "Ikan Beton Emas",
+        "area_provinsi": "LAMPUNG",
+        "area_kota": "PANDEGLANG",
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2020-05-30T15:46:48+07:00",
+        "timestamp": "1590828408"
+    },
+    {
+        "uuid": "254e47f7-75f5-4ab9-bec4-429cffdc0b08",
+        "komoditas": "Ikan BARU",
+        "area_provinsi": "JAWA",
+        "area_kota": "BDG",
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2020-05-30T13:08:42+07:00",
+        "timestamp": "1590818922"
+    },
+    {
+        "uuid": null,
+        "komoditas": "Ikan BARU banget",
+        "area_provinsi": "JAWA",
+        "area_kota": "BDG",
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2020-05-30T13:08:42+07:00",
+        "timestamp": "1590818922"
+    },
+    {
+        "uuid": null,
+        "komoditas": "Ikan BARU banget",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": "BDG",
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2020-05-30T13:08:42+07:00",
+        "timestamp": "1590818922"
+    },
+    {
+        "uuid": null,
+        "komoditas": "Ikan sepat",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": "BANDUNG",
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": "2020-05-30T13:08:42+07:00",
+        "timestamp": "1590818922"
+    },
+    {
+        "uuid": null,
+        "komoditas": "Ikan lela",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": "PANGANDARAN",
+        "size": "90",
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": null,
+        "komoditas": "iwak peyek",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": "BANDUNG",
+        "size": "80",
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": "183cc364-46aa-41b2-97bb-6f86ee1f3554",
+        "komoditas": "iwak peyek 2",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": "BANDUNG",
+        "size": "125",
+        "price": "20000",
+        "tgl_parsed": "java.util.GregorianCalendar[time=1591125114679,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=libcore.util.ZoneInfo[id=\"Asia/Jakarta\",mRawOffset=25200000,mEarliestRawOffset=26400000,mUseDst=false,mDstSavings=0,transitions=7],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2020,MONTH=5,WEEK_OF_YEAR=23,WEEK_OF_MONTH=1,DAY_OF_MONTH=3,DAY_OF_YEAR=155,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=1,AM_PM=0,HOUR=2,HOUR_OF_DAY=2,MINUTE=11,SECOND=54,MILLISECOND=679,ZONE_OFFSET=25200000,DST_OFFSET=0]",
+        "timestamp": "1591125114"
+    },
+    {
+        "uuid": "8034160b-7c07-4213-b359-68667f487445",
+        "komoditas": "Tiger FIsh",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": "PANGANDARAN",
+        "size": "15",
+        "price": "20000",
+        "tgl_parsed": "Wed Jun 03 02:13:59 GMT+07:00 2020",
+        "timestamp": "1591125239"
+    },
+    {
+        "uuid": "52496d49-acf0-48de-b874-327ae85122aa",
+        "komoditas": "Gurame",
+        "area_provinsi": "Jawa Barat",
+        "area_kota": "Bandung",
+        "size": "3",
+        "price": "20000",
+        "tgl_parsed": "Thu Jun 04 22:13:30 GMT+07:00 2020",
+        "timestamp": "1591283610"
+    },
+    {
+        "uuid": "5966ce70-a7f4-11ea-8d48-6f148899e996",
+        "komoditas": null,
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "BANYUWANGI",
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2020-06-06T12:50:50.200Z",
+        "timestamp": "1591447850200"
+    },
+    {
+        "uuid": "0e48e978-a849-11ea-bb37-0242ac130002",
+        "komoditas": "arwana",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-06-06T23:04:25.000Z",
+        "timestamp": "1591484890000"
+    },
+    {
+        "uuid": "993fa26a-8ad7-4b51-a8fb-b75af8351366",
+        "komoditas": "jangkrik",
+        "area_provinsi": "ciamis",
+        "area_kota": "cianjur",
+        "size": "6",
+        "price": "20000",
+        "tgl_parsed": "Sun Jun 07 15:50:28 GMT+07:00 2020",
+        "timestamp": "1591519828"
+    },
+    {
+        "uuid": "1ef0832c-5032-4241-985a-969252fb953e",
+        "komoditas": "Ikan Tomang",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2020-06-07T16:07:21.906Z",
+        "timestamp": "1591520841906"
+    },
+    {
+        "uuid": "431c316c-5696-4853-8f53-633b0853df27",
+        "komoditas": "Tomang",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-06-07T16:16:14.252Z",
+        "timestamp": "1591521374252"
+    },
+    {
+        "uuid": "9ce0e0c1-d0cf-4d06-ad9e-8d63a0710bef",
+        "komoditas": "Cireng",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-06-07T16:18:50+07:00",
+        "timestamp": "1591521530"
+    },
+    {
+        "uuid": "0e48e978-a849-11ea-bb37-0242ac130002",
+        "komoditas": "betok",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-06-06T23:04:25.000Z",
+        "timestamp": "1591484890000"
+    },
+    {
+        "uuid": "e8f6fcec-808f-4b9d-b65f-397e51539235",
+        "komoditas": "Ikan Patin",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "150",
+        "price": "20000",
+        "tgl_parsed": "2020-06-07T16:39:12.206Z",
+        "timestamp": "1591522752206"
+    },
+    {
+        "uuid": "ee264a90-906a-466b-a7e2-333b7eee755d",
+        "komoditas": "Alligator",
+        "area_provinsi": "JAWA TENGAH",
+        "area_kota": "PEMALANG",
+        "size": "180",
+        "price": "20000",
+        "tgl_parsed": "2020-06-07T16:41:26.328Z",
+        "timestamp": "1591522886328"
+    },
+    {
+        "uuid": "e441a88f-ec29-42a8-b8b7-8b41c426001c",
+        "komoditas": "Hiu Tawar",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "160",
+        "price": "20000",
+        "tgl_parsed": "2020-06-08T10:41:31.560Z",
+        "timestamp": "1591587691560"
+    },
+    {
+        "uuid": "2fb96a0a-f880-4827-91ba-7f4e8f014238",
+        "komoditas": "Piranha",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2020-06-08T10:45:53.965Z",
+        "timestamp": "1591587953965"
+    },
+    {
+        "uuid": "e776757d-2547-44d8-84fe-1258b5ec945c",
+        "komoditas": "Ikan sepat",
+        "area_provinsi": "SUMATERA BARAT",
+        "area_kota": "PADANG PARIAMAN",
+        "size": "130",
+        "price": "20000",
+        "tgl_parsed": "2020-06-08T10:46:21.374Z",
+        "timestamp": "1591587981374"
+    },
+    {
+        "uuid": "a9e10e7d-d385-49b5-ac55-fe6d04f300af",
+        "komoditas": "Patin Albino",
+        "area_provinsi": "LAMPUNG",
+        "area_kota": "LAMPUNG TIMUR",
+        "size": "120",
+        "price": "20000",
+        "tgl_parsed": "2020-06-08T12:14:31.719Z",
+        "timestamp": "1591593271719"
+    },
+    {
+        "uuid": "319d36ef-a651-4960-b00a-d51e25ac56f5",
+        "komoditas": "Ikan Cupang",
+        "area_provinsi": null,
+        "area_kota": null,
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": "2020-06-08T13:00:25.737Z",
+        "timestamp": "1591596025737"
+    },
+    {
+        "uuid": "777a8413-6149-4927-a306-99d04446d034",
+        "komoditas": "Betok",
+        "area_provinsi": "JAWA BARAT",
+        "area_kota": null,
+        "size": "180",
+        "price": "20000",
+        "tgl_parsed": "2020-06-08T13:27:01.336Z",
+        "timestamp": "1591597621336"
+    },
+    {
+        "uuid": "ASDFFADFASDFSf",
+        "komoditas": null,
+        "area_provinsi": "DKI JAKARTA",
+        "area_kota": "JAKARTA BARAT",
+        "size": null,
+        "price": "20000",
+        "tgl_parsed": null,
+        "timestamp": null
+    },
+    {
+        "uuid": "kotlin.random.XorWowRandom@812983c",
+        "komoditas": "ikan gabus",
+        "area_provinsi": "BALI",
+        "area_kota": "BULELENG",
+        "size": "130",
+        "price": "20000",
+        "tgl_parsed": "Mon Jun 08 18:42:16 GMT+07:00 2020",
+        "timestamp": "1591616536785"
+    },
+    {
+        "uuid": "kotlin.random.XorWowRandom@ea1ec3b",
+        "komoditas": "Ikan Bandeng",
+        "area_provinsi": "SULAWESI BARAT",
+        "area_kota": "MAMUJU UTARA",
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "Mon Jun 08 18:45:15 GMT+07:00 2020",
+        "timestamp": "1591616715066"
+    },
+    {
+        "uuid": "kotlin.random.XorWowRandom@b5f40c6",
+        "komoditas": "In Bandeng",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "130",
+        "price": "20000",
+        "tgl_parsed": "Mon Jun 08 19:48:54 GMT+07:00 2020",
+        "timestamp": "1591620534191"
+    },
+    {
+        "uuid": "kotlin.random.XorWowRandom@13ee749",
+        "komoditas": "Teri",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "Tue Jun 09 10:41:39 GMT+07:00 2020",
+        "timestamp": "1591674099776"
+    },
+    {
+        "uuid": "d93fb0a9-793e-4029-b68f-d2b9155ba8c1",
+        "komoditas": "Ikan Pari",
+        "area_provinsi": "JAWA TIMUR",
+        "area_kota": "JEMBER",
+        "size": "160",
+        "price": "20000",
+        "tgl_parsed": "2020-06-09T15:08:58.122Z",
+        "timestamp": "1591690138122"
+    },
+    {
+        "uuid": "2bc4de49-9c8d-4df7-b869-191f1a9147db",
+        "komoditas": "Ikan Nila",
+        "area_provinsi": "SUMATERA UTARA",
+        "area_kota": null,
+        "size": "140",
+        "price": "20000",
+        "tgl_parsed": "2020-06-09T15:10:22.614Z",
+        "timestamp": "1591690222614"
+    },
+    {
+        "uuid": "653f5092-eb78-4cb8-9d92-ce95c5d1b628",
+        "komoditas": "mantap",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-06-10T12:52:59+07:00",
+        "timestamp": "1591768379"
+    },
+    {
+        "uuid": "6ab51024-5126-4e68-ac8b-3fc4c575ab99",
+        "komoditas": "sugoi",
+        "area_provinsi": "BANTEN",
+        "area_kota": "PANDEGLANG",
+        "size": "30",
+        "price": "20000",
+        "tgl_parsed": "2020-06-10T12:53:28+07:00",
+        "timestamp": "1591768408"
+    },
+    {
+        "uuid": "d31183f6-a90f-4277-b787-1ebf5b6c39f4",
+        "komoditas": "Ikan Kembung",
+        "area_provinsi": "JAWA TENGAH",
+        "area_kota": "PANDEGLANG",
+        "size": "140",
+        "price": "100000",
+        "tgl_parsed": "2020-06-01T00:00:00+07:00",
+        "timestamp": "1590944400"
+    }
+]

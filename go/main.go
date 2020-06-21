@@ -33,7 +33,8 @@ func main()  {
   authRoutes.Use(middleware.JWT([]byte("secret")))
   
   //auth routes
-	authRoutes.GET("/user", handlers.UserAuth())
+  authRoutes.GET("/user", handlers.UserAuth())
+  authRoutes.GET("/fetching/fetch", handlers.FetchingFetch())
 
 	e.Logger.Fatal(e.Start(":8000"))
 }
