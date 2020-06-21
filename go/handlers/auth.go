@@ -8,6 +8,7 @@ import (
   "backend-app/go/forms" 
 	"math/rand"
   "strconv"
+  "github.com/dgrijalva/jwt-go"
 )
 
 type H map[string]interface{}
@@ -78,3 +79,12 @@ func Login() echo.HandlerFunc {
   }
 }
 
+func UserAuth() echo.HandlerFunc {
+	return func (c echo.Context) error {
+		user := c.Get("user").(*jwt.Token)
+
+    return c.JSON(http.StatusOK, H{
+      "data": user.Claims,
+    })
+	}
+}
