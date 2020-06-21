@@ -21,8 +21,12 @@ func FetchingFetch() echo.HandlerFunc {
   }
 }
 
-// func FetchingAggregate() echo.HandlerFunc {
-//   return func (c echo.Context) error {
+func FetchingAggregate() echo.HandlerFunc {
+  return func (c echo.Context) error {
+    fetchData := helpers.GetJsonFetchData("aggregate.json")
 
-//   }
-// }
+    return c.JSON(http.StatusOK, H{
+      "data": fetchData.Fetchs,
+    })
+  }
+}
