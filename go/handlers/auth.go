@@ -81,10 +81,9 @@ func Login() echo.HandlerFunc {
 func UserAuth() echo.HandlerFunc {
 	return func (c echo.Context) error {
 		user := c.Get("user").(*jwt.Token)
-    claims := user.Claims.(jwt.MapClaims)
 
     return c.JSON(http.StatusOK, H{
-      "data": claims["name"],
+      "data": user.Claims,
     })
 	}
 }
