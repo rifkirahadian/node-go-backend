@@ -128,7 +128,7 @@ exports.getAggregates = (data) => {
 }
 
 exports.aggregateTypeValidate = (type, res) => {
-  if (['provincyArea' , 'weeklyDate'].indexOf(type) < 0) {
+  if (['provinceArea' , 'weeklyDate'].indexOf(type) < 0) {
     throw responser.errorResponse(res, 'Invalid type')
   }
 }
