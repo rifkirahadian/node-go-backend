@@ -18,4 +18,3 @@ type USDValue struct {
 type FetchCollection struct {
 	Fetchs []Fetch `json:"items"`
 }
-
