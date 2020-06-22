@@ -20,7 +20,7 @@ exports.fetchAggregate = async(req, res) => {
     const {type} = req.query
     fetching.aggregateTypeValidate(type, res)
 
-    if (type === 'provincyArea') {
+    if (type === 'provinceArea') {
       data = fetching.groupByAreaProvincies(data)
     }else{
       data = fetching.groupByWeeklyDate(data)
