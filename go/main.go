@@ -41,6 +41,7 @@ func main()  {
   authRoutes.GET("/user", handlers.UserAuth())
   authRoutes.GET("/fetching/fetch", handlers.FetchingFetch())
   
+  adminRoutes.GET("/fetching/aggregate", handlers.FetchingAggregate())
 
 	e.Logger.Fatal(e.Start(":8000"))
 }

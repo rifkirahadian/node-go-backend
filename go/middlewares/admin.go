@@ -10,8 +10,9 @@ type H map[string]interface{}
 func AdminMiddleware(next echo.HandlerFunc) echo.HandlerFunc {
   return func(c echo.Context) error {
     user := c.Get("user").(*jwt.Token)
+    claims := user.Claims.(jwt.MapClaims)
 
-    if user.role != "admin" {
+    if claims["role"] != "admin" {
       return c.JSON(403, H{
         "message": "Forbidden access",
       })
