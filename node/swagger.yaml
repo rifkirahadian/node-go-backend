@@ -1,0 +1,223 @@
+openapi: 3.0.1
+info:
+  title: API Documentation
+  version: 0.0.1
+servers:
+- url: http://localhost:8000
+- url: http://localhost:8081
+- url: http://localhost:3333
+
+paths:
+  /api/register:
+    post:
+      tags:
+      - Auth
+      summary: Register
+      description: Register User to System
+      operationId: registerUser
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/RegisterBody'
+        required: true
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MessageResponse'
+        
+        400:
+          description: Invalid email or email has been taken
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DataResponse'
+      x-codegen-request-body-name: body
+  /api/login:
+    post:
+      tags:
+      - Auth
+      summary: Login
+      description: Logs user into the system
+      operationId: loginUser
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/LoginBody'
+        required: true
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DataResponse'
+       
+        400:
+          description: Invalid username/password supplied
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MessageResponse'
+      x-codegen-request-body-name: body
+  /api/auth/user:
+    get:
+      tags:
+      - Auth
+      summary: Auth User
+      description: Get Authenticated user by bearer token
+      operationId: getAuthUser
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AuthUserSuccessResponse'
+        401:
+          description: Unauthorized operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UnauthorizeResponse'
+      security:
+      - Bearer: []
+  /api/fetching/fetch:
+    get:
+      tags:
+      - Fetching
+      summary: Fetching with optional USD Currency
+      description: Add USD value to currency if you want to show price in USD
+      operationId: fetching
+      parameters:
+        - in: query
+          name: currency
+          schema:
+            type: string
+            example: USD
+            
+          required: true
+      
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DataResponse'
+       
+        400:
+          description: Invalid username/password supplied
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MessageResponse'
+      x-codegen-request-body-name: body
+  /api/admin/fetching/aggregate:
+    get:
+      tags:
+      - Fetching
+      summary: Fetcing Aggregate with Province Area/Weekly Date Grouped
+      description: Fill in type, Weekly Date=weeklyDate, Province Area=provinceArea
+      operationId: fetchingAggregate
+      parameters:
+        - in: query
+          name: type
+          schema:
+            type: string
+            example: weeklyDate
+            
+          required: true
+      
+      responses:
+        200:
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DataResponse'
+       
+        400:
+          description: Invalid username/password supplied
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MessageResponse'
+      x-codegen-request-body-name: body
+  
+  /swagger:
+    x-swagger-pipe: swagger_raw
+components:
+  schemas:
+    MessageResponse:
+      type: object
+      properties:
+        message:
+          type: string
+    DataResponse:
+      type: object
+      properties:
+        data:
+          type: string        
+    
+    
+    LoginBody:
+      type: object
+      properties:
+        phone:
+          type: string
+        password:
+          type: string
+      xml:
+        name: LoginBody
+    RegisterBody:
+      type: object
+      properties:
+        phone:
+          type: string
+        name:
+          type: string
+        role:
+          type: string
+      xml:
+        name: LoginBody
+  
+    AuthUserSuccessResponse:
+      type: object
+      properties:
+        status:
+          type: integer
+        message:
+          type: object
+          example: null
+        data:
+          type: object
+          properties:
+            exp:
+              type: string
+            name:
+              type: string
+            phone:
+              type: string
+            role:
+              type: string
+            timestamp:
+              type: string
+    UnauthorizeResponse:
+      type: object
+      properties:
+        errors:
+          type: object
+          properties:
+            message:
+              type: string
+            
+  securitySchemes:
+    Bearer:
+      type: apiKey
+      name: Authorization
+      in: header
